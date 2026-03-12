@@ -6,24 +6,24 @@ This project allows users to manage student records by performing CRUD operation
 It demonstrates a strong understanding of Object-Oriented Programming (OOP) concepts and the Java Collections Framework.
 
 ## Key Features
--Add new student records
--View all students
--Search students by roll number
--Update existing student details
--Delete student records
--Simple menu-driven console interface
+- Add new student records
+- View all students
+- Search students by roll number
+- Update existing student details
+- Delete student records
+- Simple menu-driven console interface
 
 ## Technologies Used
--Java (Core Java)
--OOP Concepts (Encapsulation, Classes & Objects)
--Java Collections (ArrayList)
--Scanner Class (for user input)
+- Java (Core Java)
+- OOP Concepts (Encapsulation, Classes & Objects)
+- Java Collections (ArrayList)
+- Scanner Class (for user input)
 
 ## How to Run
--Clone or download the project.
--Open the project in IntelliJ IDEA / Eclipse.
--Run Main.java
+- Clone or download the project.
+- Open the project in IntelliJ IDEA / Eclipse.
+- Run Main.java
 
 ## Project Screenshots (01_menu.png,02_add.png,03_view.png,04_update.png)
 
-## Author: Kajal Patel
+### Author: Kajal Patel
