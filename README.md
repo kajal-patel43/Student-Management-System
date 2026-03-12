@@ -1,3 +1,4 @@
+
 Overview
 The Student Management System is a console-based application developed using Core Java.
 This project allows users to manage student records by performing CRUD operations (Create, Read, Update, Delete) without using any external database.
