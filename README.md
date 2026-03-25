@@ -23,7 +23,7 @@ It demonstrates a strong understanding of Object-Oriented Programming (OOP) conc
 - Clone or download the project.
 - Open the project in IntelliJ IDEA / Eclipse.
 - Run Main.java
-- 
+  
 ## Project Structure
 - src/ → Java source files
 - screenshots/ → Output images
